@@ -4,7 +4,7 @@
 
 # Healthcare Data Analysis & Reporting
 
-## Table of Contents
+## 📚 Table of Contents
 
 1. [Project Overview](#1-project-overview)  
 2. [Project Description](#2-project-description)  
@@ -41,10 +41,10 @@
 
 
 
-## 1. Project Overview <a name="1-project-overview"></a>
+## 📌 1. Project Overview <a name="1-project-overview"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;This project focuses on analyzing healthcare data to uncover key insights into patient admissions, medical conditions, treatment outcomes, and hospital performance. By combining Python for data preparation and cleaning with Power BI for interactive dashboards, the project aims to support healthcare administrators in making data-driven operational and clinical decisions.
 
-## 2. Project Description <a name="2-project-description"></a>
+## 📌 2. Project Description <a name="2-project-description"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;🩺 The Healthcare Data Analysis and Visualization Project involves working with a multi-sheet Excel dataset containing patient details, hospital information, doctor records, and patient visit data. The project workflow starts with merging and cleaning the data using Python libraries such as Pandas and NumPy in a Jupyter Notebook environment. Key data cleaning steps included handling missing values, standardizing text data, mapping admission type codes, calculating patient length of stay, and identifying high billing cases.
 
 After preparing a clean and integrated dataset, exploratory data analysis (EDA) was performed in Python to validate data distributions and detect anomalies. The prepared dataset was then visualized in Power BI, where a series of interactive dashboards were built to deliver actionable insights.
@@ -371,10 +371,10 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 
 ## 👨‍💻 11. Author <a name="11-author"></a>
 
-**Shruti Singh**      
+**Floyd Steev Santhmayer**      
 
-- 📧 Email: [shrutis02170@gmail.com](mailto:shrutis02170@gmail.com)
-- 🌐 LinkedIn: [Shruti_LinkedIn](https://www.linkedin.com/in/shruti-singh-0aaa47288/)
+- 📧 Email: [floydsteev.santhmayer@gmail.com](mailto:floydsteev.santhmayer@gmail.com)
+-
 
 ## 12. License <a name="12-license"></a>
 
