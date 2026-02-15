@@ -374,7 +374,6 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 **Floyd Steev Santhmayer**      
 
 - 📧 Email: [floydsteev.santhmayer@gmail.com](mailto:floydsteev.santhmayer@gmail.com)
--
 
 ## 12. License <a name="12-license"></a>
 
